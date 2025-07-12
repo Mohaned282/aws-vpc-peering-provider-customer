@@ -34,3 +34,9 @@ This project demonstrates the configuration of a VPC peering connection between 
 
 ## 🧩 Use Case
 This setup simulates internal communication between isolated environments in the same AWS account. It can be applied in use cases like shared services, staging vs production environments, or logically separated application layers.
+
+### Author
+**Mohaned Mohamed**  
+Glasgow, United Kingdom  
+m.gorashi282@gmail.com | +447417414418  
+[LinkedIn Profile](https://www.linkedin.com/in/mohaned-mohamed-64674a45/) | [GitHub Profile](https://github.com/Mohaned282)
